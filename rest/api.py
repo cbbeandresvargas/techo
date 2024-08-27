@@ -47,3 +47,12 @@ if __name__ == '__main__':
 
 
 # curl -X POST http://127.0.0.1:5000/api/send_data -H "Content-Type: application/json" -d '{"id_area": "area1", "id_sensor": "sensor1", "humedad": 75.5, "consumo": 123.4}'
+
+
+
+#virtualenv techo
+#cd scripts
+#.\activate
+#cd ..
+#pip install flask requests
+#code .
